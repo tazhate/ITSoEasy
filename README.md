@@ -32,6 +32,8 @@ wndproc хрома (к примеру), в дебрях инкапсуляции
 
 ### ROUTER
 
+межпортовое взаимодействие, nat? 
+
 ### PROVIDERS & BGP
 
 ### YANDEX SERVERS
@@ -41,6 +43,9 @@ DNS & WEB
 ### NGINX?
 
 ### DYMAMIC BACKEND + CACHES?
+
+### Уровень железа у яндекса (а надо ли?) 
+
 
 
 Taz Hate, [07.04.16 23:58]
