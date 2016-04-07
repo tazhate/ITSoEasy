@@ -17,7 +17,9 @@ wndproc хрома (к примеру), в дебрях инкапсуляции
 
 
 http get
+
 arp
+
 routing & routing tables
 
 
