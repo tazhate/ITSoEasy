@@ -31,6 +31,8 @@ routing & routing tables
 
 Корневые днс серверы?
 
+/etc/resolv.conf
+
 ### TCP/IP
 
 ### ARP
